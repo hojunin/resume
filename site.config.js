@@ -1,5 +1,5 @@
 module.exports = {
-  rootNotionPageId: '4c2e45ca9a984157b5043077a95a921b',
+  rootNotionPageId: '9b036ea279d04498ba907620e641c475',
   rootNotionSpaceId: null,
   name: 'hjinn',
   domain: 'hjinn.it',
